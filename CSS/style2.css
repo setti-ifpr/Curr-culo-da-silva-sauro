@@ -13,6 +13,7 @@ main{
     flex-direction: column;
     align-items: center;
     gap: 70px;
+    
 }
 
 .papai{
@@ -20,7 +21,8 @@ main{
     grid-template-columns: 1fr 1fr;
     padding-left: 200px;
     padding-top: 35px;
-    gap: 75px;
+    gap: 70px;
+    margin-right: 150px;
 }
 
 .papai > div{
